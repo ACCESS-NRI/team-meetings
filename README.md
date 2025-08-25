@@ -1,3 +1,7 @@
+# Archived
+
+No longer used since switching to Asana.
+
 # ACCESS-NRI Planning and Strategy
 
 This repository is used internally by [ACCESS-NRI][access-nri] to plan team meetings and organise work schedules.
